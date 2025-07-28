@@ -1,0 +1,33 @@
+name: CI/CD and Auto-Merge
+
+on:
+  push:
+    branches:
+      - test-appsrw
+  pull_request:
+    branches:
+      - test-appsrw
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Install Node.js 20
+      run: |
+        curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+        sudo apt-get install -y nodejs
+        node -v
+        npm -v
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Update dependencies
+      run: npm update
+
+    - name: Build
+      run: npm run build

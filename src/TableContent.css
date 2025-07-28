@@ -1,0 +1,210 @@
+.div-table {
+  display: flex;
+  flex-direction: column;         
+  align-self: top;
+  justify-content: top;
+  align-items: center;
+  width: 96vw;
+  height: 66vh;         
+  border-spacing: 5px; /* cellspacing:poor IE support for  this */
+  border-radius: 8px;
+}
+
+.div-table-rowfirst {
+  display: flex;
+  flex-direction: row;
+  width: 96vw;
+  height: 4vh;
+  background-color:  #00004d;
+  border-top-left-radius: 1.5vh;
+  border-top-right-radius: 1.5vh;
+  align-self: top;
+  justify-content: flex-start;
+  align-items: center;  
+}
+
+
+.div-table-colfirst1 {
+  display: block;         
+  width: 3vw;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst1textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+.div-table-colfirst2 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst2textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+.div-table-colfirst3 {
+  display: block;         
+  width: 9vw;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst3textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst4 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst4textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst5 {
+  display: block;         
+  width: 10vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+
+.colfirst5textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+.div-table-colfirst6 {
+  display: block;         
+  width: 12vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst6textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+.div-table-colfirst7 {
+  display: block;         
+  width: 3vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst7textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst8 {
+  display: block;         
+  width: 5vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst8textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst9 {
+  display: block;         
+  width: 6vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst9textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst10 {
+  display: block;         
+  width: 5vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst10textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst11 {
+  display: block;         
+  width: 12vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+
+.colfirst11textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}
+
+
+.div-table-colfirst12 {
+  display: block;         
+  width: 10vw;
+  height: auto;
+  text-align: left;         
+  background-color:  #00004d;  
+}
+
+.colfirst12textspan{
+  font-family: serif;
+   color: white;
+  font-size: 1.1vw;
+  white-space: nowrap;
+}

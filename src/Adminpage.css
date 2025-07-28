@@ -1,0 +1,169 @@
+.Adminpagediv {
+ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+  width: 100vw;
+  height: 100vh;
+  background-color: #ebebfa;
+  color: black;
+}
+
+.Inviteoperator{
+ display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+  width: 100vw;
+  height: 50vh;
+  background-color: #ebebfa;
+  color: black;
+}
+
+.Generatetokenoperatordiv{
+ display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5vw;
+  width: 21vw;
+  height: 5vh;
+  color: black;
+}
+
+
+.Generatetokenoperatorbut {
+  font-size: 1.1vw;
+  font-family: "Arial", Segoe UI;
+  color: black;
+  border-radius: 2vh;
+}
+
+
+.Operatornameadmdiv {
+ display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1vw;
+  width: 55vw;
+  height: 5vh;
+  color: white;
+  white-space: nowrap;
+}
+
+.Operatornameadmtext {
+  font-size: 1.1vw;
+  font-family: "Arial", Segoe UI;
+  color: black;
+}
+
+.Operatornameadmininputdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+   width: 28vw;
+ height: 4vh;
+ border-radius: 2vh;
+ border: 1px black solid;
+}
+
+
+.Operatornameinput {
+ width: 26vw;
+ height: 3vh;
+border: none;
+ outline: none; 
+}
+
+.Submitoperatorbuttondiv {
+ display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5vw;
+  width: 16vw;
+  height: 5vh;
+  color: black;
+}
+
+
+.Deleteoperatorbuttondiv {
+ display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5vw;
+  width: 16vw;
+  height: 5vh;
+  color: black;
+}
+
+.Submitoperator, .Deleteoperator, .Backupbutton, .Restorebutton {
+  border-radius: 2vh;
+}
+
+.Backuprestorediv {
+ display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+  width: 100vw;
+  height: 50vh;
+  background-color: #ebebfa;
+  color: black;
+}
+
+.Backupbuttondiv, .Restorebuttondiv {
+ display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+}
+
+.Uploadshow {
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  width: 50%;
+  height: 50%;
+  transform: (-50%, -50%);
+}  
+
+.Uploadhid {
+  display: none;
+}
+
+.Uploadfileinput {
+  width: 50vw;
+  border-radius: 2vh;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  height: fit-content;
+}
+
+.Uploadfileinput::file-selector-button {
+  border-color: #e60000;
+  background-color: #e60000;
+  font-size: 1vw;
+  color: white;
+  border-radius: 2vh;
+  font-family: serif;
+  margin-right: 2vw;
+  margin-left: 1vw;
+  margin-top: 0.5vh;
+  margin-bottom: 0.5vh;
+}
+
+.Uploadbutton {
+  width: fit-content;
+  border-radius: 2vh;
+}

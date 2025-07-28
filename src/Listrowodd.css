@@ -1,0 +1,164 @@
+
+.div-table-rowodd {
+  display: flex;
+  flex-direction: row;
+  width: 96vw;
+  height: fit-content;
+  background-color: white;
+   padding-top: 0.6vh;
+ background-color: #ebebfa;
+  padding-bottom: 0.6vh;
+ align-self: center;
+  justify-content: flex-start;
+  align-items: center;  
+}
+
+.div-table-colodd1 {
+  display: block;         
+  width: 3vw;
+  text-align: left;         
+ background-color: #ebebfa;
+}
+
+.colodd1textspan{
+ font-family: serif;
+ font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-colodd2 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: #ebebfa;
+  
+}
+
+.colodd2textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-colodd3 {
+  display: block;         
+  width: 9vw;
+  text-align: left;         
+  background-color: #ebebfa;
+}
+
+.colodd3textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-colodd4 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: #ebebfa;
+}
+
+.colodd4textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-colodd5 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd5textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-colodd6 {
+  display: block;         
+  width: 12vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd6textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-colodd7 {
+  display: block;         
+  width: 3vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd7textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-colodd8 {
+  display: block;         
+  width: 5vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd8textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-colodd9 {
+  display: block;         
+  width: 6vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd10textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-colodd10 {
+  display: block;         
+  width: 5vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd11textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-colodd11 {
+  display: block;         
+  width: 12vw;
+  text-align: left;         
+  background-color: #ebebfa;  
+}
+
+.colodd11textspan{  
+ font-family: serif;
+ font-size: 1vw;
+ white-space: nowrap;
+}
+

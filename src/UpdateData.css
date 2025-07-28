@@ -1,0 +1,430 @@
+.Updatediv {
+ display: flex;
+ flex-direction: column;
+ gap: 4vh; 
+justify-content: center;
+ align-items: left;
+ width: 90vw;
+ height: 86vh ;
+}
+
+.Namadiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ gap: 1vw;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Namainputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 50vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Namainputu {
+ width: 48vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Tempattanggallahirdiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Tempatlahirdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: left;
+ align-items: center;
+ border-radius: 2vh;
+ width: 53vw;
+ height: 4vh;
+}
+
+.Tempatlahirinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 42vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Tempatlahirinputu {
+ width: 40vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Tanggallahirdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: left;
+ align-items: center; 
+border-radius: 2vh;
+ width: 37vw;
+ height: 4vh;
+}
+
+.Tanggallahirinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 6vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Tanggallahirinputu {
+ width: 4vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Noktpnohpdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ align-self: center;
+ gap: 3vw;
+ width: 84vw;
+ height: 4vh;
+}
+
+
+.Noktpdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center;
+ width: 38vw;
+ height: 4vh;
+}
+
+.Noktpinputdiv {
+  display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 18vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Noktpinputu{
+ width: 16vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+
+.Nohpdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center;
+ width: 38vw;
+ height: 4vh;
+}
+
+.Nohpinputdiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 18vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Nohpinputu {
+ width: 16vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Towerunitdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ align-self: center;
+ width: 45vw;
+ height: 4vh;
+}
+
+.Towerdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: left;
+ align-items: center; 
+border-radius: 2vh;
+ width: 25vw;
+ height: 4vh;
+}
+
+.Towerinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 3vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Towerinputu {
+ width: 1vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Unitdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: left;
+ align-items: center; 
+border-radius: 2vh;
+ width: 20vw;
+ height: 4vh;
+}
+
+.Unitinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 6vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Unitinputu {
+width: 4vw;
+ height: 3vh;
+ outline: none;
+ border: none;
+}
+
+.Statusperiodsewadiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Statusdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center; 
+border-radius: 2vh;
+ width: 20vw;
+ height: 4vh;
+}
+
+.Statusinputdiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 12vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Statusinputu {
+width: 10vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Periodsewadiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: left;
+ align-items: center;
+ border-radius: 2vh;
+ width: 65vw;
+ height: 4vh;
+}
+
+.Periodsewainputdiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 52vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Periodsewainputu {
+ width: 50vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Agendiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Ageninputdiv{
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 52vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Ageninputu {
+  width: 50vw;
+ height: 3vh;
+border: none;
+ outline: none;
+}
+
+.Emergencyhpdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Emergencyhpinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 18vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Emergencyhpinputu {
+ width: 16vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Pemilikunitdiv {
+ display:flex;
+ flex-direction: rows;
+ gap: 1vw;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Pemilikunitinputdiv {
+ display:flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ border-radius: 2vh;
+ background-color: white;
+ width: 52vw;
+ height: 4vh;
+ border: 1px black solid;
+}
+
+.Pemilikunitinputu {
+ width: 50vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Submitresetdiv {
+display:flex;
+ flex-direction: rows;
+ gap: 4vw;
+ justify-content: center;
+ align-items: center;
+ width: 90vw;
+ height: 4vh;
+}
+
+.Updatebutton  {
+ border-radius: 2vh;
+}
+
+.Resetbuttonu {
+ border-radius: 2vh;
+}
+
+

@@ -1,0 +1,163 @@
+
+.div-table-roweven {
+  display: flex;
+  flex-direction: row;
+  width: 96vw;
+  height: fit-content;
+  background-color: white;
+   padding-top: 0.6vh;
+  padding-bottom: 0.6vh;
+ align-self: center;
+  justify-content: flex-start;
+  align-items: center;  
+}
+
+.div-table-coleven1 {
+  display: block;         
+  width: 3vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven1textspan{
+ font-family: serif;
+ font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-coleven2 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: white;
+  
+}
+
+.coleven2textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-coleven3 {
+  display: block;         
+  width: 9vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven3textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-coleven4 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven4textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-coleven5 {
+  display: block;         
+  width: 10vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven5textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-coleven6 {
+  display: block;         
+  width: 12vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven6textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-coleven7 {
+  display: block;         
+  width: 3vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven7textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-coleven8 {
+  display: block;         
+  width: 5vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven8textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+.div-table-coleven9 {
+  display: block;         
+  width: 6vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven10textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-coleven10 {
+  display: block;         
+  width: 5vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven11textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+
+
+.div-table-coleven11 {
+  display: block;         
+  width: 12vw;
+  text-align: left;         
+  background-color: white;  
+}
+
+.coleven11textspan{  
+ font-family: serif;
+font-size: 1vw;
+ white-space: nowrap;
+}
+

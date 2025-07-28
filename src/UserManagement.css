@@ -1,0 +1,160 @@
+.topouterright {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: top;
+  align-items: center;
+  background-color: white;
+  border-radius: 2vh;
+  width: 96vw;
+  height: 80vh;
+}
+
+
+.innerfiltertable {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  background-color: white;
+  justify-content: center;
+  align-self: center;
+  width: 94vw;
+  height: 14vh;
+}
+
+
+.filterinput {
+ display: flex;
+ align-self: center;
+ flex-direction: row;
+ width: 90vw;
+ gap: 0.6vw;
+ height: auto;
+ background-color: #ebebfa; 
+ padding: 1%;
+ justify-content: center;
+ align-items: center;
+ border-radius: 6px;
+}
+
+.filtertextdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 84vw;
+  height: fit-content;
+  padding: 0.05%;
+  background-color: white;
+  border: 1px black solid;
+  border-radius: 6px;
+}
+
+.searchbutton {
+  align-self: left;
+  border: none;
+  background-color: white;
+}
+
+
+.filterinputtext{
+ width: 80vw;
+ border: none;
+ outline: none;
+}
+
+.filterbuttondiv {
+  display: block;
+  width: fit-content;
+  height: fit-content;
+}
+
+
+
+.filterdiv {
+ display: flex;
+ flex-direction: row;
+ flex-wrap: nowrap;
+ width: auto;
+ height: fit-content;
+ justify-content: center;
+ align-items: center;
+ align-self: center;
+}
+
+.filterinputbutton {
+ border-radius: 6px;
+ backgound-color: white;
+ color: #00004d;
+}
+
+.filterspan {
+  white-space: nowrap;
+}
+
+.counterpagediv {
+ display: flex;
+  flex-direction: row;
+  gap: 86vw;
+  width: 96vw;
+  height: 4vh;;
+  align-self: center;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.countertextdiv {
+  display: block;
+  margin-left: 2vw;
+}
+
+.countertextspan {
+  font-family: serif;
+  font-size: 1vw;
+  white-space: nowrap;
+}
+
+
+.textselectpagediv{
+ display: flex;
+  flex-direction: row;
+  
+  width: 12vw;
+  height: 4vh;;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.arrowleftdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ align-self: center;
+  width: 1.8vw;
+}
+
+
+.arrowrightdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  width: 1.8vw;
+}
+
+.Filterpagehid {
+  display: none;
+}
+
+.Filterpageshow {
+  display: flex;
+  flex-direction: rows;
+  justify-content: left;
+  align-items: center;
+  width: 25vw;
+  height: 3vh;
+}

@@ -1,0 +1,44 @@
+.editdeletediv {
+  display: flex;
+  flex-direction: row;
+  gap: 1vw;
+  width: 10vw;
+  height: fit-content;
+  justify-content: flex-start;
+  align-items: center;
+  align-self: right;
+  background-color: #ebebfa;
+}
+
+.editbuttondiv{
+  display: block;
+  width: fit-content;
+  height: fit-content;
+}
+
+
+.deletebuttondiv{
+  display: block;
+  width: fit-content;
+  height: fit-content;
+}
+
+.editbutton {
+ font-size: 1vw;
+ border-color: #00004d;
+ color: #00004d;
+ width: 4.5vw;
+ height: 3.2vh;
+ border-radius: 1vh;
+}
+
+.deletebutton {
+  color: white;
+  border-color: #e60000;
+  background-color: #e60000;
+  font-size: 1vw;
+  width: 4.1vw;
+  height: 3.2vh;
+  border-radius: 1vh;
+
+}

@@ -1,0 +1,162 @@
+.Signpagediv {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 36vw;
+ height: 56vh;
+ background-color: white;
+ border-radius: 2vh;
+}
+
+.Topsidediv{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: flex-end;
+ width: 30vw;
+ height: 8vh;
+}
+
+.Signuptextdiv, .Signup1buttondiv {
+ display: flex;
+ flex-direction: row;
+ justify-content: flex-end;
+ align-items: center;
+ width: 30vw;
+ height: 4vh;
+}
+
+.Signuptextspan {
+  font-size: 1vw;
+  font-family: "Arial", Segoe UI;
+  color: black;
+}
+
+.Signuptophid {
+ display: none;
+}
+
+.Signuptopshow {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  font-size: 1.1vw;
+  font-family: "Arial", Segoe UI;
+}
+
+
+.Signintophid {
+ display: none;
+}
+
+.Signintopshow {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  font-size: 1.1vw;
+  font-family: "Arial", Segoe UI;
+}
+
+.Middlesidediv{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: flex-start;
+ width: 30vw;
+ height: 39vh;
+}
+
+
+
+.Repeatpasswordtextinputdivhid {
+  display: none;
+}
+
+.Invitationcodehid {
+  display: none;
+}
+
+.Invitationcodeshow, .Usernametextinputdiv, .Passwordtextinputdiv, .Repeatpasswordtextinputdivshow {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: flex-start;
+ width: 30vw;
+ height: 30vh;
+}
+
+.Usernametextspandiv, .Passwordtextspandiv, .Repeatpasswordtextspandiv, .Invitetextspandiv {
+ display: flex;
+ flex-direction: row;
+ justify-content: flex-start;
+ align-items: center;
+ width: 30vw;
+ height: 4vh;
+}
+
+
+.Usernametextspan, .Passwordtextspan, .Repeatpasswordtextspan, .Invitetextspan {
+  font-size: 1.1vw;
+  font-family: "Arial", Segoe UI;
+  color: black;
+  font-weight: bold;
+}
+
+.Usernameinputdiv, .Passwordinputdiv, .Repeatpasswordinputdiv, .Inviteinputdiv {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ width: 30vw;
+ height: 5vh;
+ border-radius: 1vh;
+ border: 1px black solid;
+}
+
+
+.Usernameinput, .Passwordinput, .Repeatpasswordinput, .Inviteinput {
+ width: 29vw;
+ height: 3vh;
+ border: none;
+ outline: none;
+}
+
+.Bottomsidediv{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 30vw;
+ height: 5vh;
+}
+
+.Signupbuttonhid {
+  display: none;
+}
+
+.Signupbuttonshow {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ width: 30vw;
+ height: 5vh;
+ border-radius: 1vh;
+ background-color: blue;
+}
+
+.Signinbuttonhid {
+ display: none;
+}
+
+.Signinbuttonshow {
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ width: 30vw;
+ height: 5vh;
+ border-radius: 1vh;
+ background-color: blue;
+}

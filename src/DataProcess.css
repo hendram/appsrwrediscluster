@@ -1,0 +1,99 @@
+.Dataprocessdiv{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 100vw;
+ height: 100vh;
+
+}
+
+.Topframe {
+ display: flex;
+ flex-direction: rows;
+ justify-content: center;
+ align-items: center;
+ width: 100vw;
+ height: 6vh;
+ 
+}
+
+.Caridata3{
+ z-index:3;
+}
+
+.Caridata2{
+ z-index:2;
+}
+
+.Caridata2{
+ z-index:1;
+}
+
+.Isidata3{
+ z-index: 3;
+ margin-left: -1vw;
+}
+
+.Isidata2{
+ z-index: 2;
+ margin-left: -1vw;
+}
+
+.Isidata1{
+ z-index: 1;
+ margin-left: -1vw;
+}
+
+.Updatedata3{
+ z-index: 3;
+ margin-left: -1vw;
+}
+
+.Updatedata2{
+ z-index: 2;
+ margin-left: -1vw;
+}
+
+
+.Updatedata1{
+ z-index: 1;
+ margin-left: -1vw;
+}
+
+.Bottomframe {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ border-top-left-radius: 2vh;
+  border-top-right-radius: 2vh;
+ width: 100vw;
+ height: 93vh;
+ background-color: #ebebfa;
+ margin-top: -1.15vh; 
+ z-index: 50;
+}
+
+.Searchshow {
+}
+
+.Searchhid {
+ display: none;
+}
+
+.Inputdatashow {
+}
+
+.Inputdatahid {
+ display: none;
+}
+
+.Updatedatashow {
+}
+
+.Updatedatahid {
+ display: none;
+}
+
+

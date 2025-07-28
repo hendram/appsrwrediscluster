@@ -1,0 +1,25 @@
+.menubardiv {
+  display: flex;
+  flex-direction: rows;
+  justify-content: left;
+  align-items: center;
+  width: 25vw;
+  height: 3vh;
+ }
+
+.Buttonfiltername {
+  background-color: transparent;
+  font-family: serif;
+  color: #00004d;
+  font-size: 1.1vw;
+  border: 0px;
+}
+
+
+.Buttonfilterunit {
+  background-color: transparent;
+  font-family: serif;
+  color: #00004d;
+  font-size: 1.1vw;
+  border: 0px;
+}
