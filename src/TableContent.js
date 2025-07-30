@@ -65,19 +65,19 @@ return(
                  <div className="colfirst1textspan">No
                        </div></div>
                 <div  className="div-table-colfirst2">
-                    <div className="colfirst2textspan">Nama
+                    <div className="colfirst2textspan">Name
                           </div></div>
                 <div  className="div-table-colfirst3">
-                      <div className="colfirst3textspan">Tempat Lahir
+                      <div className="colfirst3textspan">Birthplace
                     </div></div>
                 <div  className="div-table-colfirst4">
-                   <div className="colfirst4textspan">Tgl Lahir
+                   <div className="colfirst4textspan">Birthday
                           </div></div>
                 <div  className="div-table-colfirst5">
-                    <div className="colfirst5textspan">No ktp
+                    <div className="colfirst5textspan">Id No
                          </div></div>
                 <div  className="div-table-colfirst6">
-                    <div className="colfirst6textspan">No hp
+                    <div className="colfirst6textspan">Cellphone No
                          </div></div>
 
                 <div  className="div-table-colfirst7">
@@ -92,11 +92,11 @@ return(
                          </div></div>
 
                 <div  className="div-table-colfirst10">
-                    <div className="colfirst10textspan">Agen
+                    <div className="colfirst10textspan">Agent
                          </div></div>
 
                 <div  className="div-table-colfirst11">
-                    <div className="colfirst11textspan">Pemilik unit
+                    <div className="colfirst11textspan">Unit Owner
                          </div></div>
                 <div  className="div-table-colfirst12">
                      <div className="colfirst12textspan">Action

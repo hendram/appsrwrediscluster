@@ -21,11 +21,11 @@ const filterUnit = (event) => {
 return(
 <div className="menubardiv">
 <div>
-<button onClick={filterName} className="Buttonfiltername" >Nama
+<button onClick={filterName} className="Buttonfiltername" >Name
 </button>
 </div>
 <div>
-<button onClick={filterUnit} className="Buttonfilterunit" >TowerUnit
+<button onClick={filterUnit} className="Buttonfilterunit" >UnitTower
 </button>
 </div>
 

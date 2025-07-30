@@ -194,21 +194,21 @@ const handleReset = (event) => {
 return(
   <div className="Inputdiv">
 <div className="Namadiv">
-  <label htmlFor="Nama">Nama:</label>
+  <label htmlFor="Nama">Name:</label>
   <div className="Namainputdiv">
     <input type="text" id="Nama" ref={nama} className="Namainput" />
   </div>
 </div>
 <div className="Tempattanggallahirdiv">
 <div className="Tempatlahirdiv">
-  <label htmlFor="Tempatlahir">Tempat lahir:</label>
+  <label htmlFor="Tempatlahir">Birth Place:</label>
   <div className="Tempatlahirinputdiv">
     <input type="text"  id="Tempatlahir" ref={tempatlahir}  className="Tempatlahirinput"/>
   </div>
 </div>
 <div className="Tanggallahirdiv">
-  <span>Tanggal lahir:</span>
-   <label htmlFor="Tanggal"> Tanggal: </label>
+  <span>Birthday:</span>
+   <label htmlFor="Tanggal"> Day: </label>
 <select id="Tanggal" ref={date} className="Tanggalselect" >
 <option selected>1</option>
 <option>2</option>
@@ -242,7 +242,7 @@ return(
 <option>30</option>
 <option>31</option>
 </select>
-   <label htmlFor="Bulan"> Bulan: </label>
+   <label htmlFor="Bulan"> Month: </label>
 <select id="Bulan" ref={month} className="Bulanselect">
 	<option selected>1</option>
 <option>2</option>
@@ -257,7 +257,7 @@ return(
 <option>11</option>
 <option>12</option>
 </select>
-   <label htmlFor="Tahun"> Tahun: </label>
+   <label htmlFor="Tahun"> Year: </label>
 
   <div className="Tanggallahirinputdiv" >
     <input id="Tahun" type="text" ref={tgllahir} className="Tanggallahirinput"/>
@@ -266,13 +266,13 @@ return(
 </div> {/* closing of tempattanggallahirdiv */ }
 <div className="Noktpnohpdiv">
 <div className="Noktpdiv">
-  <label htmlFor="Noktp">No ktp:</label>
+  <label htmlFor="Noktp">Id No:</label>
   <div className="Noktpinputdiv">
     <input type="text" id="Noktp" ref={noktp} className="Noktpinput" />
   </div>
 </div> 
 <div className="Nohpdiv">
-  <label htmlFor="Nohp">No hp:</label>
+  <label htmlFor="Nohp">Cellphone No:</label>
   <div className="Nohpinputdiv">
     <input type="text" id="Nohp" ref={nohp} className="Nohpinput" />
   </div>
@@ -312,26 +312,26 @@ return(
   </div>
 </div>
 <div className="Periodsewadiv">
-  <label htmlFor="Periodsewa">Period Sewa:</label>
+  <label htmlFor="Periodsewa">Rent Period:</label>
   <div className="Periodsewainputdiv">
     <input type="text" id="Periodsewa" ref={periodsewa} className="Periodsewainput"/>
   </div>
 </div>
 </div> {/* closing of statusperiodsewadiv */}
    <div className="Agendiv">
-   <label htmlFor="Agen">Agen:</label>
+   <label htmlFor="Agen">Agent:</label>
   <div className="Ageninputdiv">
    <input id="Agen" type="text" ref={agen} className="Ageninput"/>
 </div>    
 </div>
 <div className="Emergencyhpdiv">
- <label htmlFor="Emergencyhp"> Emergency hp:</label>
+ <label htmlFor="Emergencyhp"> Emergency no:</label>
 <div className="Emergencyhpinputdiv">   
 <input id="Emergencyhp" type="text" ref={emergencyhp} className="Emergencyhpinput" />
 </div>   
  </div>
   <div className="Pemilikunitdiv">
- <label htmlFor="Pemilikunit">Pemilik Unit:</label>
+ <label htmlFor="Pemilikunit">Unit Owner:</label>
 <div className="Pemilikunitinputdiv">  
  <input id="Pemilikunit" type="text" ref={pemilikunit}  className="Pemilikunitinput"/>
 </div>   
